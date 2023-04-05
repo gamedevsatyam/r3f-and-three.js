@@ -7,7 +7,7 @@ const myVar = "World"
 
 root.render(
     <div>
-        <App clickersCount = {3}>
+        <App clickersCount = {4}>
             <h2>My First React Application</h2>
         </App>
     </div>
